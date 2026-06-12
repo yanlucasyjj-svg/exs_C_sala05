@@ -20,8 +20,6 @@ int main(void) {
     } else {
         printf("SENAI\n");
     }
-
-    system("pause");
     
     return 0;
 }                  
